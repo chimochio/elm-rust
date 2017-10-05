@@ -1,0 +1,11 @@
+[package]
+name = "budge-it"
+version = "0.1.0"
+authors = ["Chan, Ryan <rychan14@gmail.com>"]
+
+[dependencies]
+iron="*"
+router="*"
+mount="*"
+staticfile="*"
+
